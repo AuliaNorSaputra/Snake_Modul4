@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title">Aulia Nor Saputra</string>
+    <string name="nav_header_subtitle">2010817210017@mhs.ulm.ac.id</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="selamat_datang">Selamat Datang</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_gallery">Galeri</string>
+
+
+    <string name="snake1" translatable="false">Python</string>
+    <string name="snake2" translatable="false">Anaconda</string>
+    <string name="snake3" translatable="false">Mamba</string>
+    <string name="snake4" translatable="false">Rattle Snake</string>
+    <string name="snake5" translatable="false">Cobra</string>
+    <string name="snake6" translatable="false">Beludak</string>
+    <string name="snake7" translatable="false">Rat Snake</string>
+    <string name="snake8" translatable="false">Sea Snake</string>
+    <string name="snake9" translatable="false">Kadut Snake</string>
+    <string name="snake10" translatable="false">Boa</string>
+
+
+    <string name="desc_snake1">
+        Malayopython reticulatus
+        Panjang maksimal melebihi 8.5 meter tidak beracun namun memiliki cengkraman yang kuat agar
+        mangsanya tidak dapat lepas.
+    </string>
+
+    <string name="desc_snake2">
+        Eunectes
+        Panjang maksimal melebihi 8.43 meter tidak beracun namun memiliki cengkraman yang kuat agar
+        mangsanya tidak dapat lepas.
+        </string>
+
+    <string name="desc_snake3">
+        Dendroaspis
+        Panjang maksimal melebihi 4.3 meter selain punya bisa yang mematikan mamba dapat bergerak
+        sangat cepat bahkan mampu melebihi kecepatan berlari manusia.
+        </string>
+
+    <string name="desc_snake4">
+        Crotalus sp
+        Panjang maksimal melebihi 1.38 meter keunikan ular ini adalah dia menarik mangsanya dengan
+        menggunakan ujung ekornya yang bergetar membuat mangsanya mengira bahwa itu adalah makanan.
+        Namun saat mangsa mendekat dia akan menggigit mangsanya dan membunuhnya dengan racun yang dimilikinya.
+        </string>
+
+    <string name="desc_snake5">
+        Naja
+        Panjang maksimal melebihi 1,8 meterselain menyebarkan racun melalui gigitanular kobra juga dapat
+        menyemburkan racunnyakeluar dari mulutnya yang dapat mengakibatkankebutaan apabila terkena mata.
+        </string>
+
+    <string name="desc_snake6">
+        Vipera beruz
+        Panjang maksimal melebihi 90 sentimeter walaupun memiliki ukuran yang terbilang kecil ular
+        beludak/viper dikenal memiliki racun yang mematikan.
+        </string>
+
+    <string name="desc_snake7">
+        Ptyas korros
+        Panjang maksimal melebihi 2.5 meterular sawah atau yang dikenal ular pemakantikus ini tidak
+        memiliki racun namun ular ini mampu melilit kuat tikus hingga membuatnyamudah untuk memakan
+        tikus tersebut.
+        </string>
+
+    <string name="desc_snake8">
+        Hydrophiinae
+        Panjang maksimal melebihi 2,7 meterular ini dapat berenang sangat cepat di dalamair. Selain itu,
+        ular laut juga memiliki racunyang mematikan karena 1 tetes racunnya dapatmembunuh 1800 orang
+        hanya dalam 30 menit saja.
+        </string>
+
+    <string name="desc_snake9">
+        Acrochordus granulatus
+        Panjang maksimal melebihi 2.4 meter ular kadut juga merupakan ular yang hidup di dalam air.
+        Namun ular ini tidak memiliki racun.
+        </string>
+
+    <string name="desc_snake10">
+        Boa constrictor
+        Panjang maksimal melebihi 3.9 meter tidak beracun namun memiliki cengkraman yang kuat agar
+        mangsanya tidak dapat lepas.
+        </string>
+
+</resources>

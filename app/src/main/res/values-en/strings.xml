@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snake</string>
+
+    <string name="nav_header_title">Aulia Nor Saputra</string>
+    <string name="nav_header_subtitle">2010817210017@mhs.ulm.ac.id</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="selamat_datang">Welcome</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+
+    <string name="desc_snake1">
+        Malayopython reticulatus
+        Maximum length exceeding 8.5 meters is non-toxic but has a strong grip so that its prey cannot escape.
+    </string>
+
+    <string name="desc_snake2">
+        Eunectus
+        Maximum length exceeding 8.43 meters is non-toxic but has a strong grip so that its prey cannot escape.
+        </string>
+
+    <string name="desc_snake3">
+        Dendroaspis
+        Maximum length exceeding 4.3 meters in addition to having a deadly venom, the mamba can move
+        very fast and even exceed the speed of human running.
+        </string>
+
+    <string name="desc_snake4">
+        Crotalus sp
+        Maximum length exceeds 1.38 meters. Theuniqueness of this snake is that it attracts its prey
+        by using the tip of its tail which vibratesto make its prey think that it is food. But when
+        the prey approaches he will bite the prey and killit with the poison it has.
+        </string>
+
+    <string name="desc_snake5">
+        Naja
+        Maximum length exceeding 1.8 meters in addition to spreading venom through the bite of a cobra,
+        it can also spit its venom out of its mouth which can cause blindness if it hits the eye.
+        </string>
+
+    <string name="desc_snake6">
+        Vipera beruz
+        Maximum length exceeds 90 centimeters despite having a relatively small size vipers are known
+        to have deadly venom.
+        </string>
+
+    <string name="desc_snake7">
+        Pytas korros
+        Maximum length of more than 2.5 meters, the rice field snake or what is known as the rat-eating
+        snake has no poison, but this snake is able to tightly wrap around the rat to make it easy to eat
+        the rat.
+        </string>
+
+    <string name="desc_snake8">
+        Hydrophiinae
+        Maximum length exceeding 2.7 meters this snake can swim very fast in the water. In addition,
+        sea snakes also have a deadly venom because 1 drop of its venom can kill 1800 people in just
+        30 minutes.
+        </string>
+
+    <string name="desc_snake9">
+        Acrochordus granulatus
+        Maximum length exceeding 2.4 meters kadut snake is also a snake that lives in water but this
+        snake does not have poison.
+        </string>
+
+    <string name="desc_snake10">
+        Boa constrictor
+        Maximum length exceeding 3.9 meters is non-toxic but has a strong grip so that its prey cannot escape.
+        </string>
+
+</resources>
